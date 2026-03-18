@@ -1,0 +1,27 @@
+name: elder_care_app
+description: "CareLoop Smart Elder Care System"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.32.0
+  firebase_database: ^10.5.7
+  http: ^0.13.6
+  flutter_local_notifications: ^17.0.0
+  flutter_tts: ^3.8.5
+  cupertino_icons: ^1.0.8
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
