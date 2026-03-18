@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "901876119381",
+    "firebase_url": "https://careloop-a975b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "careloop-a975b",
+    "storage_bucket": "careloop-a975b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901876119381:android:a9c5568493a4df2a2f61dc",
+        "android_client_info": {
+          "package_name": "com.example.elder_care_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_D_zXPrDpM0mdke1spGYVChASk1oGW9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
